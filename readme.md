@@ -13,7 +13,7 @@ Can Edit Mongo Url Or Any Config In config/default.json path
 
 ## Rest Apis
 Req Create Movie Api With No Permission:
-![Create Api](image.png)
+![Create Api](http://github.com/aakashguptaa/movies-ott/blob/master/assests/create-api.png?raw=true)
 
 Create Movies Api: http://localhost:4000/movies
 
